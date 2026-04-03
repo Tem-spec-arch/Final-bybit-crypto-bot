@@ -1,7 +1,8 @@
 import os
 import time import math from datetime import datetime, timezone 
 import pytz 
-import pandas as pd from pybit.unified_trading import HTTP
+import pandas as pd 
+from pybit.unified_trading import HTTP
 
 ================= CONFIG =================
 
